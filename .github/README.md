@@ -87,7 +87,7 @@ Once you have the **GitHub App** up and running, users will simply need to creat
 
 ## How to contribute
 
-If you find any bugs or would like to contribute to more features, please check out our [issues](https://github.com/rrotaru/branch-protector/issues) page and [CONTRIBUTING](.github/CONTRIBUTING.md) guide for more details.
+If you find any bugs or would like to contribute to more features, please check out our [issues](https://github.com/rrotaru/branch-protector/issues) page and [CONTRIBUTING](CONTRIBUTING.md) guide for more details.
 
 ## Special credits and thanks
 
