@@ -6,11 +6,11 @@ A GitHub app for automatically setting up branch protection rules on new reposit
 
 Every time a new repository is created in your organization, `Branch Protector` will update the repository's settings to enable a branch protection rule. This rule will require developers to create a pull request and receive at least one approval before merging code changes into the default branch.
 
-![New repository created](images/create-new-repository.png)
+![New repository created](./images/create-new-repository.png)
 
-![New issue opened with more details](images/check-new-issues.png)
+![New issue opened with more details](./images/check-new-issues.png)
 
-![Branch protection rule](images/branch-protection-rule.png)
+![Branch protection rule](./images/branch-protection-rule.png)
 
 ### Setting up the GitHub App for your GitHub instance
 
